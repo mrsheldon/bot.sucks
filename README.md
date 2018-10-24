@@ -5,7 +5,7 @@ Here you can see and get bot.sucks subdomains!
 ### Subdomains
 
 ```
-luca.bot.sucks | derpyenterprises.org
+luca.bot.sucks
 ```
 
 ### Get your own subdomain
