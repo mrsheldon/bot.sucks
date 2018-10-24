@@ -6,7 +6,6 @@ Here you can see and get bot.sucks subdomains!
 
 ```
 luca.bot.sucks
-don.bot.sucks
 ```
 
 ### Get your own subdomain
