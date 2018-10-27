@@ -8,6 +8,7 @@ Here you can see and get bot.sucks subdomains!
 luca.bot.sucks
 kenny.bot.sucks
 my.bot.sucks
+donate.bot.sucks
 ```
 
 ### Get your own subdomain
