@@ -14,5 +14,5 @@ cat.bot.sucks
 
 ### Get your own subdomain
 
-To get your own ?.bot.sucks subdomain contact MrSheldon#0001
+To get your own ?.bot.sucks subdomain contact MrSheldon#0001 on Discord or send an email to contact@mrsheldon.me
 
